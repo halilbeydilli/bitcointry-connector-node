@@ -1,6 +1,6 @@
 {
   "name": "@bitcointry/api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a lightweight library that works as a connector to the Bitcointry public API.",
   "main": "src/index.js",
   "scripts": {},
